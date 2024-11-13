@@ -14,6 +14,26 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: parasitezombie_Material1
     second: {fileID: 2100000, guid: 0902880f2dd11e94ea10715cad0fbb2c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parasiteZombie_body_diffuse
+    second: {fileID: 2800000, guid: 99946cdadc772344199451b5fdbbc58d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parasiteZombie_diffuse
+    second: {fileID: 2800000, guid: e8191c4b99d41b14ebee471517aae0b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parasiteZombie_normal
+    second: {fileID: 2800000, guid: 1858ecac1304c194ab3b530a59199e9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parasiteZombie_specular
+    second: {fileID: 2800000, guid: 80b6889e82f74bd4b856f88a36de33d0, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -89,6 +109,7 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips:
   - 8aa6c63c0ae6d1247ac20bdcb2c6ef1a
+  - 7c63a49e414980849867ed8076b9ac68
   importAnimation: 1
   humanDescription:
     serializedVersion: 3
